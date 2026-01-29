@@ -1,1 +1,14 @@
 # simple-html-js-project
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GitHub Group Activity</title>
+</head>
+<body>
+    <h1>Welcome</h1>
+    <button onclick="showMessage()">Click Me</button>
+    <p id="output"></p>
+
+    <script src="script.js"></script>
+</body>
+</html>
